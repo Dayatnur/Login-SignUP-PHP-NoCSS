@@ -1,6 +1,6 @@
-# Project Title
+# LOGIN-SIGUP-PHP-NOCSS
 
-One Paragraph of the project description
+Login SignUp ini dibuat menggunakan bahasa php dengan menggunakan database localhost pada phpmyadmin.
 
 Initially appeared on
 [gist](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2). But the page cannot open anymore so that is why I have moved it here.
